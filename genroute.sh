@@ -1,7 +1,7 @@
 #!/bin/sh
 
 ./generate.sh 20-route \
-  --net=cn,hk,kr,0.0.0.0/0 \
+  --net=cn,hk,jp,0.0.0.0/0 \
   --vpn=us \
   --nodefaultgw=1 \
   --profile=custom \
